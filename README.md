@@ -36,7 +36,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions, feedback, or suggestions regarding the Singapore Resale Flat Prices Predictor web application, feel free to reach out:
 
-- **Email:** [)
+- **Email:** [sivachandana49230@gmail.com)
 - **GitHub:** [https://github.com/chandana95siva/DS_Singapore-Resale-Flat-Prices-Predicting)
-- **LinkedIn:** [)
+- **LinkedIn:** [Chandana S](https://www.linkedin.com/in/chandana-s02/)
 
